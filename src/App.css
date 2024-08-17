@@ -1,0 +1,22 @@
+body {
+  background: url(https://img.freepik.com/free-vector/sky-hwasang-hoeui-baegyeong_23-2148639325.jpg?semt=ais_hybrid);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.weather-box {
+  border: 3px solid white;
+  padding: 10px;
+  border-radius: 30px;
+  background-color: transparent;
+}
